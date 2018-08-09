@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ba9ba458-304d-454e-b960-00f36fa6469e/resourceGroups/appsvc_rg_linux_southeastasia/providers/Microsoft.Web/sites/dxc-interviewtracking-api",
+    "appService.deploySubpath": "",
+    "git.ignoreLimitWarning": true
+}
